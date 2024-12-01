@@ -69,10 +69,10 @@ This project highlights the effectiveness of fine-tuned deep learning models for
 
 ## References
 - [COVID-19 Radiography Database - Kaggle](https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database)
-- COVID-CXR GitHub Repository
+
 - Radiopaedia - COVID-19 Chest Imaging
-- Stack Overflow (for debugging)
-- ChatGPT (conceptualization and debugging)
+
+
 
 ---
 
