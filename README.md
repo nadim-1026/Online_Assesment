@@ -50,6 +50,8 @@ The dataset used is the [COVID-19 Radiography Database](https://www.kaggle.com/d
 | F1-Score     | 87.55%   | 91.79%          | 89.90%     | **94.53%**       |
 
 The confusion matrix for the fine-tuned VGG16 model shows minimal misclassification across all four classes.
+![Confusion Matrix Balanced Dataset](./output/confusion matrix of Balanced Dataset.png "Confusion Matrix Balanced Dataset")
+![Confusion Matrix Augumented Dataset](./output/confusionmatrix for Augumented Dataset.png "Confusion Matrix Augumented Dataset")
 
 ## Key Challenges
 1. **Class Imbalance**: Solved using downsampling and augmentation.
